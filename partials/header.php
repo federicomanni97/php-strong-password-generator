@@ -1,3 +1,8 @@
+<?php
+session_start();
+include __DIR__ . '/../functions/functions.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,11 +13,7 @@
     <title></title>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-</body>
-<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-<script src="js/script.js"></script>
-</html>
+<body class="bg-primary">
+    <header>
+
+    </header>
