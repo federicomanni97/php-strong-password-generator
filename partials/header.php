@@ -13,7 +13,7 @@ include __DIR__ . '/../functions/functions.php';
     <title></title>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body class="bg-primary">
-    <header>
-
+<body class="bg-dark mt-4">
+    <header class="container d-flex justify-content-center">
+        <h1 class="text-light">Php Password Generator</h1>
     </header>
