@@ -6,7 +6,7 @@ if (empty($_SESSION['password'])) {
 }
 ?>
         
-    <main class="container m-5">
+    <main class="container mt-4">
         <div class="alert alert-success">
             <h2>
                 <?php echo $_SESSION['password'] ?>

@@ -1,4 +1,4 @@
-<footer class="container text-light fs-3">
+<footer class="container text-secondary fs-5">
     <p>Made by Federico</p>
 </footer>
 
